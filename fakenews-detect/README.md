@@ -1,3 +1,3 @@
 # fakenews-detect
 
-## fake news detector using python, TfidfVectorizer and PassiveAggressiveClassifier
+fake news detection using python, TfidfVectorizer and PassiveAggressiveClassifier
